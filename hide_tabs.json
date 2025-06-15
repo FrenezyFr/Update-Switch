@@ -1,0 +1,18 @@
+{
+    "about": true,
+    "atmosphere": true,
+    "cfw": true,
+    "firmwares": true,
+    "cheats": false,
+    "custom": false,
+    "outdatedtitles": true,
+    "jccolor": false,
+    "pccolor": false,
+    "downloadpayload": true,
+    "rebootpayload": true,
+    "netsettings": false,
+    "browser": false,
+    "move": true,
+    "cleanup": true,
+    "language": false
+}
